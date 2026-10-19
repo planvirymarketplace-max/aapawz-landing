@@ -462,18 +462,6 @@ export default function HomePage() {
 
           <div className="head-actions">
             <button
-              type="button"
-              className="acc-login-btn"
-              onClick={openAccount}
-              aria-label="Open account menu"
-            >
-              <svg viewBox="0 0 24 24" className="w-3.5 h-3.5" fill="none" stroke="currentColor" strokeWidth="2">
-                <circle cx="12" cy="8" r="3.5" />
-                <path d="M4.5 21v-1.8a7.5 7.5 0 0 1 15 0V21" />
-              </svg>
-              <span>Account</span>
-            </button>
-            <button
               className="icon"
               id="account"
               aria-label="My account"
