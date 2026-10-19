@@ -1,0 +1,6 @@
+{
+  "name": "All About Pawz",
+  "description": "The connected pet-care experience. Find the right care, the right products, and the right answers for the animals who make your life better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
